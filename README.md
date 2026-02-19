@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am a 3rd-year developer focused on building functional AI/ML prototypes and writing clean, version-controlled code. With a CGPA of 8.61, I balance academic excellence with hands-on experience in national-level hackathons
+I am a 3rd-year developer focused on building functional AI/ML prototypes and writing clean, version-controlled code. With a CGPA of 8.61, I balance academic excellence with hands-on experience in national-level hackathons.
 
 
 ## 🌐 Socials:
